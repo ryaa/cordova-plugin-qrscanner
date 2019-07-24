@@ -18,7 +18,7 @@ npm-debug.log*
 # Dependency directories
 node_modules/
 
-# generated files
-dist/
-src/browser/plugin.min.js
-www/www.min.js
+# generated files (commented below lines to include into the repo to be able to install them when installing from this fork)
+# dist/
+# src/browser/plugin.min.js
+# www/www.min.js
